@@ -1,2 +1,2 @@
-# Paradigmas-de-Programa-o-em-Python
+# Paradigmas-de-Programação-em-Python
 Todas as atividades de Python serão salvas aqui nesse repositório
